@@ -2,6 +2,7 @@
 
 int main()
 {
+  printf("test");
     char c=48;
     int i, mask=01;
     for(i=1; i<=5; i++)
